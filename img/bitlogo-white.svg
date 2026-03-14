@@ -1,0 +1,18 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 627.73 280.5" width="627.73" height="280.5">
+  <defs>
+    <style>.cls-1{stroke:#fff;stroke-width:6.5px;}.cls-1,.cls-2,.cls-3,.cls-4{fill:none;}.cls-1,.cls-3,.cls-4{stroke-miterlimit:10;}.cls-2{stroke-linejoin:round;}.cls-2,.cls-3,.cls-4{stroke:#e5e5e5;stroke-width:16px;}.cls-2,.cls-4{stroke-linecap:round;}.cls-5{fill:#2caee3;}.cls-5,.cls-6,.cls-7{stroke-width:0px;}.cls-6{fill:#74cce9;}.cls-7{fill:#ef5927;}</style>
+  </defs>
+  <g id="Icon">
+    <polygon class="cls-5" points="206.86 116.79 206.86 38.93 139.43 0 72 38.93 72 116.79 139.43 155.72 206.86 116.79" />
+    <polygon class="cls-6" points="134.86 241.47 134.86 163.61 67.43 124.68 0 163.61 0 241.47 67.43 280.4 134.86 241.47" />
+    <polygon class="cls-7" points="278.86 241.57 278.86 163.71 211.43 124.78 144 163.71 144 241.57 211.43 280.5 278.86 241.57" />
+    <polygon class="cls-1" points="139.43 98.02 84.96 129.47 84.96 192.38 139.43 223.83 193.91 192.38 193.91 129.47 139.43 98.02" />
+  </g>
+  <g id="Text">
+    <line class="cls-4" x1="495.82" y1="109.31" x2="495.82" y2="239.18" />
+    <path class="cls-2" d="M551.99,54.87v119.37c-.1,2.3-.09,5.48.34,9.23,2.34,20.17,14.52,33.45,17.02,36.09,17.64,18.56,40.85,19.48,45.45,19.57" />
+    <line class="cls-4" x1="551.99" y1="112.71" x2="616.07" y2="112.71" />
+    <ellipse class="cls-3" cx="386.51" cy="175.42" rx="63.53" ry="63.62" />
+    <line class="cls-4" x1="322.99" y1="46.96" x2="322.99" y2="175.42" />
+  </g>
+</svg>
