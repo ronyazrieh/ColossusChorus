@@ -283,7 +283,7 @@ section h2 {
     display: flex;
     flex-wrap: wrap;
     gap: 2rem;
-    align-items: flex-start;
+    align-items: stretch;
     background: #6F1A07;
     padding: 2rem;
 }
@@ -305,6 +305,8 @@ section h2 {
 
 .updates-right {
     flex: 1 1 400px;
+    display: flex;
+    align-items: center;
 }
 
 .updates-right iframe {
